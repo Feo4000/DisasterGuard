@@ -1,0 +1,53 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    
+}
+body {
+    background-color: #e9c46a; /* Сменете този цвят по ваше желание */
+    color: white;
+    padding: 10px 0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+nav ul {
+    background-color: #f4a261;
+    padding: 10px;
+    margin: 0;
+    list-style: none;
+    border-radius: 14px;
+}
+
+nav a {
+    color: #000000;
+    text-decoration: none;
+    padding: 8px 15px;
+    display: inline-block;
+}
+
+    nav a:hover {
+        background-color: #f4a261;
+    }
+
+
+
+
+

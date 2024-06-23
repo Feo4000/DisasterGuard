@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danie\\Documents\\Visual Studio 2022\\Projects\\DisasterGuard\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F1C16A-1D25-48ED-BEC3-42984EE72F5A}|DisasterGuard\\DisasterGuard.csproj|c:\\users\\danie\\documents\\visual studio 2022\\projects\\disasterguard\\disasterguard\\views\\home\\guide.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2F1C16A-1D25-48ED-BEC3-42984EE72F5A}|DisasterGuard\\DisasterGuard.csproj|solutionrelative:disasterguard\\views\\home\\guide.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F1C16A-1D25-48ED-BEC3-42984EE72F5A}|DisasterGuard\\DisasterGuard.csproj|c:\\users\\danie\\documents\\visual studio 2022\\projects\\disasterguard\\disasterguard\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2F1C16A-1D25-48ED-BEC3-42984EE72F5A}|DisasterGuard\\DisasterGuard.csproj|solutionrelative:disasterguard\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F1C16A-1D25-48ED-BEC3-42984EE72F5A}|DisasterGuard\\DisasterGuard.csproj|c:\\users\\danie\\documents\\visual studio 2022\\projects\\disasterguard\\disasterguard\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E2F1C16A-1D25-48ED-BEC3-42984EE72F5A}|DisasterGuard\\DisasterGuard.csproj|solutionrelative:disasterguard\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F1C16A-1D25-48ED-BEC3-42984EE72F5A}|DisasterGuard\\DisasterGuard.csproj|c:\\users\\danie\\documents\\visual studio 2022\\projects\\disasterguard\\disasterguard\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F1C16A-1D25-48ED-BEC3-42984EE72F5A}|DisasterGuard\\DisasterGuard.csproj|solutionrelative:disasterguard\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F1C16A-1D25-48ED-BEC3-42984EE72F5A}|DisasterGuard\\DisasterGuard.csproj|c:\\users\\danie\\documents\\visual studio 2022\\projects\\disasterguard\\disasterguard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F1C16A-1D25-48ED-BEC3-42984EE72F5A}|DisasterGuard\\DisasterGuard.csproj|solutionrelative:disasterguard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F1C16A-1D25-48ED-BEC3-42984EE72F5A}|DisasterGuard\\DisasterGuard.csproj|c:\\users\\danie\\documents\\visual studio 2022\\projects\\disasterguard\\disasterguard\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2F1C16A-1D25-48ED-BEC3-42984EE72F5A}|DisasterGuard\\DisasterGuard.csproj|solutionrelative:disasterguard\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F1C16A-1D25-48ED-BEC3-42984EE72F5A}|DisasterGuard\\DisasterGuard.csproj|c:\\users\\danie\\documents\\visual studio 2022\\projects\\disasterguard\\disasterguard\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2F1C16A-1D25-48ED-BEC3-42984EE72F5A}|DisasterGuard\\DisasterGuard.csproj|solutionrelative:disasterguard\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F1C16A-1D25-48ED-BEC3-42984EE72F5A}|DisasterGuard\\DisasterGuard.csproj|c:\\users\\danie\\documents\\visual studio 2022\\projects\\disasterguard\\disasterguard\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2F1C16A-1D25-48ED-BEC3-42984EE72F5A}|DisasterGuard\\DisasterGuard.csproj|solutionrelative:disasterguard\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F1C16A-1D25-48ED-BEC3-42984EE72F5A}|DisasterGuard\\DisasterGuard.csproj|c:\\users\\danie\\documents\\visual studio 2022\\projects\\disasterguard\\disasterguard\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E2F1C16A-1D25-48ED-BEC3-42984EE72F5A}|DisasterGuard\\DisasterGuard.csproj|solutionrelative:disasterguard\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Guide.cshtml",
+              "DocumentMoniker": "C:\\Users\\danie\\Documents\\Visual Studio 2022\\Projects\\DisasterGuard\\DisasterGuard\\Views\\Home\\Guide.cshtml",
+              "RelativeDocumentMoniker": "DisasterGuard\\Views\\Home\\Guide.cshtml",
+              "ToolTip": "C:\\Users\\danie\\Documents\\Visual Studio 2022\\Projects\\DisasterGuard\\DisasterGuard\\Views\\Home\\Guide.cshtml",
+              "RelativeToolTip": "DisasterGuard\\Views\\Home\\Guide.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T11:05:57.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\danie\\Documents\\Visual Studio 2022\\Projects\\DisasterGuard\\DisasterGuard\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DisasterGuard\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\danie\\Documents\\Visual Studio 2022\\Projects\\DisasterGuard\\DisasterGuard\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DisasterGuard\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAswBwAAAB4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T10:58:23.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\danie\\Documents\\Visual Studio 2022\\Projects\\DisasterGuard\\DisasterGuard\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DisasterGuard\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\danie\\Documents\\Visual Studio 2022\\Projects\\DisasterGuard\\DisasterGuard\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DisasterGuard\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-22T10:54:02.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\danie\\Documents\\Visual Studio 2022\\Projects\\DisasterGuard\\DisasterGuard\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "DisasterGuard\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\danie\\Documents\\Visual Studio 2022\\Projects\\DisasterGuard\\DisasterGuard\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "DisasterGuard\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T10:53:49.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Documents\\Visual Studio 2022\\Projects\\DisasterGuard\\DisasterGuard\\Program.cs",
+              "RelativeDocumentMoniker": "DisasterGuard\\Program.cs",
+              "ToolTip": "C:\\Users\\danie\\Documents\\Visual Studio 2022\\Projects\\DisasterGuard\\DisasterGuard\\Program.cs",
+              "RelativeToolTip": "DisasterGuard\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T10:40:33.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Documents\\Visual Studio 2022\\Projects\\DisasterGuard\\DisasterGuard\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DisasterGuard\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\danie\\Documents\\Visual Studio 2022\\Projects\\DisasterGuard\\DisasterGuard\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DisasterGuard\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T10:39:47.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\danie\\Documents\\Visual Studio 2022\\Projects\\DisasterGuard\\DisasterGuard\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "DisasterGuard\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\danie\\Documents\\Visual Studio 2022\\Projects\\DisasterGuard\\DisasterGuard\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "DisasterGuard\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T10:39:38.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\danie\\Documents\\Visual Studio 2022\\Projects\\DisasterGuard\\DisasterGuard\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "DisasterGuard\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\danie\\Documents\\Visual Studio 2022\\Projects\\DisasterGuard\\DisasterGuard\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "DisasterGuard\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAADEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-22T10:06:27.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\danie\\Documents\\Visual Studio 2022\\Projects\\DisasterGuard\\DisasterGuard\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DisasterGuard\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\danie\\Documents\\Visual Studio 2022\\Projects\\DisasterGuard\\DisasterGuard\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DisasterGuard\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACUAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T10:05:25.065Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
